@@ -1,7 +1,7 @@
 # Inter-Correlation
 This repo contains the implementation of "Intra-Correlation Encoding for Chinese Sentence Intention Matching" in Keras & Tensorflow.
 
-All codes you can find here https://drive.google.com/drive/folders/1IFCwZEFyPGgO4z1Wwjlf35U3bivPk8NI
+All codes you can find here https://drive.google.com/drive/folders/1IFCwZEFyPGgO4z1Wwjlf35U3bivPk8NI?usp=sharing
 # Usage for python code
 ## 0. Requirement
 python 3.6  
@@ -22,6 +22,6 @@ python train.py
 ## 3. Start the prediction process
 python predict.py  
 ## 4. Start the prediction process
-You can download the codes and our trained model from here https://drive.google.com/drive/folders/1IFCwZEFyPGgO4z1Wwjlf35U3bivPk8NI, then run predict.py to get the experiment results in "Intra-Correlation Encoding for Chinese Sentence Intention Matching"
+You can download the codes and our trained model from here https://drive.google.com/drive/folders/1IFCwZEFyPGgO4z1Wwjlf35U3bivPk8NI?usp=sharing, then run predict.py to get the experiment results in "Intra-Correlation Encoding for Chinese Sentence Intention Matching"
 # Reference
 If you find our source is useful, please consider citing our work.
