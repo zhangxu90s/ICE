@@ -16,6 +16,8 @@ The dataset is BQ & LCQMC.
 
 "LCQMC: A Large-scale Chinese Question Matching Corpus", https://www.aclweb.org/anthology/C18-1166/.
 ## 2. Start the training process
-python siamese_NN.py  
+python train.py  
+## 3. Start the prediction process
+python predict.py  
 # Reference
 If you find our source is useful, please consider citing our work.
