@@ -21,7 +21,7 @@ The dataset is BQ & LCQMC.
 python train.py  
 ## 3. Start the prediction process
 python predict.py  
-## 4. Start the prediction process
+## 4. Load the trained model
 You can download the codes and our trained model from here https://drive.google.com/drive/folders/1IFCwZEFyPGgO4z1Wwjlf35U3bivPk8NI?usp=sharing, then run predict.py to get the experiment results in "Intra-Correlation Encoding for Chinese Sentence Intention Matching"
 # Reference
 If you find our source is useful, please consider citing our work.
