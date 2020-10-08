@@ -3,7 +3,7 @@ This repo contains the implementation of "Intra-Correlation Encoding for Chinese
 
 All codes you can find here:
 
-%Google Drive: https://drive.google.com/drive/folders/1IFCwZEFyPGgO4z1Wwjlf35U3bivPk8NI?usp=sharing, or 
+'''Google Drive: https://drive.google.com/drive/folders/1IFCwZEFyPGgO4z1Wwjlf35U3bivPk8NI?usp=sharing, or '''
 
 Baidu Netdisk: https://pan.baidu.com/s/1QstyW9AD3_ykyUuPb8V8Bw  password: vplk
 # Usage for python code
