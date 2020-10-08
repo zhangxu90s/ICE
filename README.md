@@ -2,7 +2,9 @@
 This repo contains the implementation of "Intra-Correlation Encoding for Chinese Sentence Intention Matching" in Keras & Tensorflow.
 
 All codes you can find here:
+
 Google Drive: https://drive.google.com/drive/folders/1IFCwZEFyPGgO4z1Wwjlf35U3bivPk8NI?usp=sharing, 
+
 or Baidu Netdisk: https://pan.baidu.com/s/1QstyW9AD3_ykyUuPb8V8Bw  密码: vplk
 # Usage for python code
 ## 0. Requirement
@@ -25,8 +27,13 @@ python train.py
 python predict.py  
 ## 4. Load the trained model
 You can download the codes and our trained model from here:
+
 Google Drive: https://drive.google.com/drive/folders/1IFCwZEFyPGgO4z1Wwjlf35U3bivPk8NI?usp=sharing, 
+
 or Baidu Netdisk: https://pan.baidu.com/s/1QstyW9AD3_ykyUuPb8V8Bw  密码: vplk, 
+
 then run predict.py to get the experiment results in "Intra-Correlation Encoding for Chinese Sentence Intention Matching"
 # Reference
 If you find our source useful, please consider citing our work.
+
+Xu Zhang, Yifeng Li, Wenpeng Lu, Ping Jian, Guoqiang Zhang. Intra-Correlation Encoding for Chinese Sentence Intention Matching[C]//Proceedings of the 28th International Conference on Computational Linguistics. 2020.
