@@ -3,8 +3,6 @@ This repo contains the implementation of "Intra-Correlation Encoding for Chinese
 
 All codes you can find here:
 
-'''Google Drive: https://drive.google.com/drive/folders/1IFCwZEFyPGgO4z1Wwjlf35U3bivPk8NI?usp=sharing, or '''
-
 Baidu Netdisk: https://pan.baidu.com/s/1QstyW9AD3_ykyUuPb8V8Bw  password: vplk
 # Usage for python code
 ## 0. Requirement
@@ -27,8 +25,6 @@ python train.py
 python predict.py  
 ## 4. Load the trained model
 You can download the codes and our trained model from here:
-
-%Google Drive: https://drive.google.com/drive/folders/1IFCwZEFyPGgO4z1Wwjlf35U3bivPk8NI?usp=sharing, or 
 
 Baidu Netdisk: https://pan.baidu.com/s/1QstyW9AD3_ykyUuPb8V8Bw  password: vplk, 
 
