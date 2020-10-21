@@ -3,7 +3,7 @@ This repo contains the implementation of "Intra-Correlation Encoding for Chinese
 
 All codes you can find here:
 
-Baidu Netdisk: https://pan.baidu.com/s/1QstyW9AD3_ykyUuPb8V8Bw  password: vplk
+Baidu Netdisk: https://pan.baidu.com/s/18yzI3RP0669H5RHI45_6zA  password: gvdp
 # Usage for python code
 ## 0. Requirement
 python 3.6  
@@ -26,7 +26,7 @@ python predict.py
 ## 4. Load the trained model
 You can download the codes and our trained model from here:
 
-Baidu Netdisk: https://pan.baidu.com/s/1QstyW9AD3_ykyUuPb8V8Bw  password: vplk, 
+Baidu Netdisk: https://pan.baidu.com/s/18yzI3RP0669H5RHI45_6zA  password: gvdp, 
 
 then run predict.py to get the experiment results in "Intra-Correlation Encoding for Chinese Sentence Intention Matching"
 # Reference
