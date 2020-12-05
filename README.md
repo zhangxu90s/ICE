@@ -32,4 +32,4 @@ then run predict.py to get the experiment results in "Intra-Correlation Encoding
 # Reference
 If you find our source useful, please consider citing our work.
 
-Xu Zhang, Yifeng Li, Wenpeng Lu, Ping Jian, Guoqiang Zhang. Intra-Correlation Encoding for Chinese Sentence Intention Matching[C]//Proceedings of the 28th International Conference on Computational Linguistics. 2020.
+Xu Zhang, Yifeng Li, Wenpeng Lu, Ping Jian, Guoqiang Zhang. Intra-Correlation Encoding for Chinese Sentence Intention Matching[C]//Proceedings of the 28th International Conference on Computational Linguistics. 2020: 5193-5204.
